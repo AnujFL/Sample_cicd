@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "03b1c1512845452d34430740882a05db"
+build_time: [1593425618, 203772000]
+inputs:
+  "/Users/anuj.singh2/Desktop/SampleTest/SampleTest/SecondViewController.swift": [9223372036, 854775807]
+  "/Users/anuj.singh2/Desktop/SampleTest/SampleTest/FirstViewController.swift": [9223372036, 854775807]
+  "/Users/anuj.singh2/Desktop/SampleTest/SampleTest/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/anuj.singh2/Desktop/SampleTest/SampleTest/SceneDelegate.swift": [9223372036, 854775807]
